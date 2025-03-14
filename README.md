@@ -1,1 +1,3 @@
-# Rapid Fire
+# Super Demon mode
+
+
