@@ -1,6 +1,12 @@
 # Super Demon mode
 
+<<<<<<<
 
 fasdfasdfas
 
 
+
+=======
+
+
+>>>>>>>
